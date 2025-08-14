@@ -1,4 +1,4 @@
-# MySQL CRUD Console Application
+# MySQL CONNECTOR CRUD Console Application
 
 A Python console application that performs CRUD (Create, Read, Update, Delete) operations on a MySQL database with a user-friendly interface.
 
